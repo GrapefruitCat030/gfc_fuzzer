@@ -1,0 +1,4 @@
+*.o
+tools/exif/exif
+demo/
+__pycache__/
